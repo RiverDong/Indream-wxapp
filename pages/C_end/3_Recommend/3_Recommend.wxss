@@ -1,0 +1,16 @@
+/* pages/TimNB/TimNB.wxss *//* pages/TimNB/TimNB.wxss */
+.container{
+  margin: 10rpx;
+  padding: 40rpx;
+}
+.users{
+  margin:20rpx;
+  padding:20rpx;
+  border: 5px solid #eee;
+  align-items: right ;
+}
+.users button{
+  padding:10rpx;
+  margin:10rpx;
+  border: 5px solid #eee;
+}

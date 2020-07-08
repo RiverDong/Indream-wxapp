@@ -1,0 +1,5 @@
+/* pages/C_end/2_Main_page/2_Main_page.wxss */
+.two_buttons{
+  display: flex;
+  flex_direction:row
+}

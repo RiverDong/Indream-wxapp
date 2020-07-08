@@ -1,0 +1,25 @@
+{
+  "pages":[
+    
+    
+    "pages/C_end/2_Main_page/2_Main_page",
+    "pages/C_end/3_Recommend/3_Recommend",
+    "pages/C_end/3_Recommend/Recommend_Detail/Recommend_Detail",
+    "pages/C_end/3_recommend/Recommend_Preferrence/Recommend_Preferrence",
+    "pages/C_end/4_Name_card/4_Name_card",
+    "pages/C_end/5_End_page/5_End_page",
+    "pages/C_end/6_Invitation/6_Invitation",
+    "pages/C_end/7_Interview/7_interview",
+    "pages/C_end/8_Email/8_Email",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#eee",
+    "navigationBarTitleText": "入海",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

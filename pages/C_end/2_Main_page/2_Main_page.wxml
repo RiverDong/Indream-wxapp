@@ -1,0 +1,5 @@
+<view> 入海 </view>
+<view class = "two_buttons">
+  <button type="primary" bindtap="C_end_Main_page"> 求职 </button>
+  <button type="primary" bindtap="B_end_Main_page"> 人才 </button>
+</view>

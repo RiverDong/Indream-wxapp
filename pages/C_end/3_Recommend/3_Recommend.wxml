@@ -1,0 +1,17 @@
+<view class="container">
+ <view> Employee Information </view>
+  <block wx:for="{{users}}" >
+    <template is = "userTemp" data="{{item}}"/>
+  </block>
+  <button type="primary" bindtap="set_preference"> Preference_Setting </button>
+</view>
+
+<template name = "userTemp">
+  <view class="users">
+    <view>公司：{{item.name}} </view>
+    <view>位置：{{item.sex}} </view>
+    <view>时间：{{item.edu}} </view>
+    <view>薪酬：{{item.college}} </view>
+    <button type="primary" bindtap="click_view_more"> View More </button>
+  </view>
+</template>
